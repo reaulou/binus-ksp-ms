@@ -1,0 +1,6 @@
+Petunjuk Installasi
+1. Copy Paste file 9_Koperasi ke folder C:\xampp\htdocs\
+2. Import file laravelkop8.sql
+3. Buka terminal/git bash di folder hasil extrak zip C:\xampp\htdocs\9_Koperasi
+4. Ketik dan jalankan php -S 127.0.0.1:8000 -t public atau php artisan serve
+5. Buka browser akses http://127.0.0.1:8000/
